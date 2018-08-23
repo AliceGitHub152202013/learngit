@@ -1,2 +1,2 @@
-I have a pen,
-I have a apple.
+Git is a version control system
+Git is free software.
